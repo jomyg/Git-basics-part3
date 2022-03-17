@@ -1,5 +1,6 @@
 ### Git basics - commit - merge - push - pull - checkout -switch -amend - rebase
-```
+``` 
+
 [root@ip-172-31-5-172 mydir]# git status
 On branch master
 Changes not staged for commit:
