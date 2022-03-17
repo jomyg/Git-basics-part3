@@ -488,3 +488,5 @@ f4da44e (HEAD -> development) mariabd-remote -started
 cb4b75d atop installation
 2e29323  Apache installation task 1
 [root@ip-172-31-2-99 git-repo-test]#
+
+Rebasing is a process to reapply commits on top of another base trip. It is used to apply a sequence of commits from distinct branches into a final commit. It is an alternative of git merge command. It is a linear process of merging.
