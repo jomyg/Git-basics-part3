@@ -8,6 +8,7 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
         modified:   main.yml
 
+
 no changes added to commit (use "git add" and/or "git commit -a")
 [root@ip-172-31-5-172 mydir]# git add .
 [root@ip-172-31-5-172 mydir]# git commit -m "atop installation"
